@@ -1,1 +1,1 @@
-# diabetic-Retinopathy-Detection-Deep-Learning
+# Diabetic-Retinopathy-Detection-Deep-Learning
