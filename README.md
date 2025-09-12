@@ -8,7 +8,7 @@ This project focuses on detecting **Diabetic Retinopathy (DR)** from retinal ima
 - **Python**  
 - **Machine Learning (Deep Learning - ResNet18)**  
 - **OpenCV**  
-- **Flask (for API deployment)**  ...
+- **Flask (for API deployment)**  
 
 ## **Features**  
 - **ResNet18-based model** for efficient retinal image classification.  
