@@ -2,7 +2,7 @@
 
 
 ## **Overview**  
-This project focuses on detecting **Diabetic Retinopathy (DR)** from retinal images using **deep learning** techniques. We leveraged the **ResNet18** architecture to build an advanced **image classification model**, aiding in early diagnosis and treatment. The model was trained on a dataset of **20,000+ retinal images** and achieved an accuracy of **96%** through extensive fine-tuning and validation.  
+This project focuses on detecting **Diabetic Retinopathy (DR)** from retinal images using **deep learning** techniques. We leveraged the **ResNet18** architecture to build an advanced **image classification model**, aiding in early diagnosis and treatment. The model was trained on a dataset of **20,000+ retinal images** and achieved an accuracy of **96%** through extensive fine-tuning and validation
 
 ## **Technologies Used**  
 - **Python**  
